@@ -389,7 +389,7 @@
         "layer4": {
           "cx": 635.1820191794558,
           "cy": 363.2260012657715,
-          "width": 2.440008888952309,
+          "width": 1,
           "height": 218.925588121283,
           "opacity": 0,
           "angle": 0,
@@ -471,7 +471,7 @@
         "layer4": {
           "deltaX": -6.276049668200471,
           "deltaY": -146.25165986704098,
-          "widthFactor": 2.440008888952309,
+          "widthFactor": 1,
           "heightFactor": 3.1289721063355795,
           "deltaAngle": 0
         },
@@ -871,7 +871,7 @@
         "layer4": {
           "cx": 590.1519140244136,
           "cy": 373.74931305306507,
-          "width": 91.58080476947273,
+          "width": 16.88772622129941,
           "height": 279.41069167866414,
           "opacity": 1,
           "angle": 0,
@@ -953,7 +953,7 @@
         "layer4": {
           "deltaX": -51.30615482324265,
           "deltaY": -135.72834807974743,
-          "widthFactor": 91.58080476947273,
+          "widthFactor": 16.88772622129941,
           "heightFactor": 3.9934494088929133,
           "deltaAngle": 0
         },
@@ -2189,7 +2189,7 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame4735"
+    "frame6933"
   ],
   "selectedLayers": [
     "layer7",
