@@ -1,0 +1,4 @@
+git add OverviewOfAromeIndonesie.final.sozi.html OverviewOfAromeIndonesie.final.sozi.json OverviewOfAromeIndonesie.final.svg
+git commit -m "AromeIndonesie vFinale with number of MPI tasks"
+git push -u origin main
+
