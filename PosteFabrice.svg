@@ -29,15 +29,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="8.385604"
-     inkscape:cx="579.26656"
-     inkscape:cy="365.32848"
+     inkscape:zoom="0.37059484"
+     inkscape:cx="-187.53634"
+     inkscape:cy="281.9791"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer6" />
   <defs
      id="defs2">
     <marker
@@ -85,45 +85,6 @@
          id="image29" />
     </mask>
   </defs>
-  <g
-     inkscape:label="Fond"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.3787px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.384469"
-       x="21.237194"
-       y="19.99007"
-       id="text29503"><tspan
-         sodipodi:role="line"
-         id="tspan29501"
-         style="stroke-width:0.384469"
-         x="21.237194"
-         y="19.99007">Présentation du poste DCSC/PSL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.6px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.415"
-       x="215.72774"
-       y="194.83659"
-       id="text31619"><tspan
-         sodipodi:role="line"
-         id="tspan31617"
-         style="stroke-width:0.415"
-         x="215.72774"
-         y="194.83659">Juin 2024</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="119.39311"
-       y="206.98172"
-       id="text40791"><tspan
-         sodipodi:role="line"
-         id="tspan40789"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="119.39311"
-         y="206.98172">Contact : ghislain.faure (@rocketChat, @meteo.fr)</tspan></text>
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1400,6 +1361,71 @@
        x="97.685539"
        y="146.32288"
        ry="10.208988" />
+  </g>
+  <g
+     inkscape:label="Fond"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.3787px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.384469"
+       x="21.237194"
+       y="19.99007"
+       id="text29503"><tspan
+         sodipodi:role="line"
+         id="tspan29501"
+         style="stroke-width:0.384469"
+         x="21.237194"
+         y="19.99007">Présentation du poste DCSC/PSL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.6px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.415"
+       x="215.72774"
+       y="194.83659"
+       id="text31619"><tspan
+         sodipodi:role="line"
+         id="tspan31617"
+         style="stroke-width:0.415"
+         x="215.72774"
+         y="194.83659">Juin 2024</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="119.39311"
+       y="206.98172"
+       id="text40791"><tspan
+         sodipodi:role="line"
+         id="tspan40789"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="119.39311"
+         y="206.98172">Contact : ghislain.faure (@rocketChat, @meteo.fr)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Conclusion">
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-weight:normal;font-size:8.31863px;line-height:1.25;font-family:sans-serif;fill:#760f8c;fill-opacity:1;stroke:#760f8c;stroke-width:0.207966;stroke-opacity:1"
+       x="189.1947"
+       y="55.20998"
+       id="text4706"><tspan
+         sodipodi:role="line"
+         id="tspan4704"
+         style="fill:#760f8c;fill-opacity:1;stroke:#760f8c;stroke-width:0.207966;stroke-opacity:1"
+         x="189.1947"
+         y="55.20998">Profil polyvalent</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#760f8c;fill-opacity:1;stroke:#760f8c;stroke-width:0.207966;stroke-opacity:1"
+         x="189.1947"
+         y="65.608269"
+         id="tspan4708">    expert climatologue</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#760f8c;fill-opacity:1;stroke:#760f8c;stroke-width:0.207966;stroke-opacity:1"
+         x="189.1947"
+         y="76.006554"
+         id="tspan4710">        sachant développer</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
